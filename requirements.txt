@@ -1,6 +1,7 @@
 torch
 einops
 torchvision
-cv2
+opencv-python
 numpy
 tqdm
+matplotlib
